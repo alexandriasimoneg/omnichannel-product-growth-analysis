@@ -67,6 +67,7 @@ Pricing analysis reveals that demand is highly price-sensitive, with near unit e
 ![Forecast](outputs/forecast.png)
 
 Demand forecasting shows an overall upward trend with seasonal fluctuations and uncertainty, suggesting the need for flexible planning, strategic budget allocation, and inventory readiness to capitalize on peak demand periods.
+
 ---
 ## Recommendations
 -	Prioritize high-value, low-churn segments 
