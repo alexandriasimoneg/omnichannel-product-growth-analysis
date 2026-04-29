@@ -2,7 +2,10 @@
 ###From Customer Insight to Business Decision
 
 ##Overview
-This project simulates a product analytics engagement for a retail platform (EverSpring Retail+), focused on improving customer retention, marketing efficiency, and long-term profitability.
+This project simulates a product analytics engagement for a retail platform (EverSpring Retail+), focused on improving:
+- Customer retention
+- Marketing efficiency
+- Long-term profitability.
 The analysis integrates segmentation, attribution, churn modeling, pricing strategy, and forecasting to drive data-informed product and growth decisions.
 ---
 ##Business Problem
