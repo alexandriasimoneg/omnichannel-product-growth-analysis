@@ -32,8 +32,44 @@ The company faces:
 •	Paid Search captures demand; Display helps create it 
 •	Demand is highly price-sensitive → discounting impacts profit 
 
-##Sample Outputs
-(Upload screenshots and reference them like this)
+##Outputs
+## Customer Segmentation
+
+![Segmentation](outputs/segmentation.png)
+
+This segmentation reveals that high-value users are defined more by engagement and satisfaction than by raw spending, highlighting that long-term value is driven by experience and behavioral patterns rather than transaction volume alone.
+
+---
+
+## Churn Drivers
+
+![Churn Model](outputs/churn_model.png)
+
+Churn analysis shows that customer experience—particularly satisfaction and support interactions—is the strongest predictor of churn, while spending and transaction frequency have minimal impact, indicating that retention is driven by service quality rather than usage.
+
+---
+
+## Channel Performance
+
+![Channel Performance](outputs/channel_performance.png)
+
+Channel analysis indicates that Paid Search and Display drive the highest incremental impact, with Paid Search capturing high-intent demand and Display supporting demand creation, while Email shows limited effectiveness and lower return on investment.
+
+---
+
+## Pricing & Promotion Impact
+
+![Pricing](outputs/pricing.png)
+
+Pricing analysis reveals that demand is highly price-sensitive, with near unit elasticity, meaning price changes significantly affect demand while revenue remains relatively stable, emphasizing the need for targeted promotions over broad discounting.
+
+---
+
+## Demand Forecast
+
+![Forecast](outputs/forecast.png)
+
+Demand forecasting shows an overall upward trend with seasonal fluctuations and uncertainty, suggesting the need for flexible planning, strategic budget allocation, and inventory readiness to capitalize on peak demand periods.
 
 ##Recommendations
 •	Prioritize high-value, low-churn segments 
