@@ -1,20 +1,20 @@
-#Omnichannel Product Growth Strategy
-###From Customer Insight to Business Decision
+# Omnichannel Product Growth Strategy
+### From Customer Insight to Business Decision
 
-##Overview
+## Overview
 This project simulates a product analytics engagement for a retail platform (EverSpring Retail+), focused on improving:
 - Customer retention
 - Marketing efficiency
 - Long-term profitability.
 The analysis integrates segmentation, attribution, churn modeling, pricing strategy, and forecasting to drive data-informed product and growth decisions.
 ---
-##Business Problem
+## Business Problem
 The company faces:
 - High churn in key customer segments 
 - Inefficient allocation of marketing spend 
 - Unclear drivers of customer lifetime value (CLV) 
 ---
-##Analytical Approach
+## Analytical Approach
 - Customer Segmentation (K-means clustering)
 - Attribution Modeling (first-touch, last-touch, multi-touch) 
 -	Marketing Mix Modeling (MMM) (regression) 
@@ -23,13 +23,13 @@ The company faces:
 -	Text Analysis (customer reviews) 
 -	Demand Forecasting (ARIMA) 
 ---
-##Key Insights
+## Key Insights
 -	High revenue does not equal high value → some high-spend users churn more 
 -	Customer experience—not spending—is the strongest driver of churn 
 -	Paid Search captures demand; Display helps create it 
 -	Demand is highly price-sensitive → discounting impacts profit 
 ---
-##Outputs
+## Outputs
 ## Customer Segmentation
 
 ![Segmentation](outputs/segmentation.png)
@@ -68,19 +68,19 @@ Pricing analysis reveals that demand is highly price-sensitive, with near unit e
 
 Demand forecasting shows an overall upward trend with seasonal fluctuations and uncertainty, suggesting the need for flexible planning, strategic budget allocation, and inventory readiness to capitalize on peak demand periods.
 ---
-##Recommendations
+## Recommendations
 -	Prioritize high-value, low-churn segments 
 -	Improve customer experience to reduce churn 
 -	Reallocate budget toward high-impact channels 
 -	Replace blanket discounts with targeted promotions 
 ---
-##Next Steps (Experimentation)
+## Next Steps (Experimentation)
 To validate and extend these findings:
 -	A/B test onboarding improvements for high-risk users 
 -	Test targeted promotions vs blanket discounts 
 -	Experiment with customer support interventions on churn 
 ---
-##Tools Used
+## Tools Used
 -	R (tidyverse, clustering, regression, forecasting) 
 -	Tableau (dashboarding) 
 -	Excel (data preparation)
