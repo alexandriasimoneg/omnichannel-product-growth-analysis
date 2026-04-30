@@ -86,3 +86,7 @@ To validate and extend these findings:
 -	Tableau (dashboarding) 
 -	Excel (data preparation)
 ---
+
+## Author
+
+**Alexandria Green**
